@@ -1,0 +1,114 @@
+{
+  "C": {
+    "tags_passes": [
+      {
+        "1": "helpful",
+        "2": "helpful",
+        "3": "helpful",
+        "4": "helpful",
+        "5": "harmful",
+        "6": "harmful",
+        "7": "harmful",
+        "8": "harmful",
+        "9": "neutral",
+        "10": "neutral",
+        "11": "neutral",
+        "12": "neutral"
+      },
+      {
+        "1": "helpful",
+        "2": "helpful",
+        "3": "helpful",
+        "4": "helpful",
+        "5": "harmful",
+        "6": "harmful",
+        "7": "harmful",
+        "8": "harmful",
+        "9": "neutral",
+        "10": "neutral",
+        "11": "neutral",
+        "12": "neutral"
+      },
+      {}
+    ],
+    "majority": {
+      "1": "helpful",
+      "2": "helpful",
+      "3": "helpful",
+      "4": "helpful",
+      "5": "harmful",
+      "6": "harmful",
+      "7": "harmful",
+      "8": "harmful",
+      "9": "neutral",
+      "10": "neutral",
+      "11": "neutral",
+      "12": "neutral"
+    },
+    "kept_lessons": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "kept_blocks": [
+      "B1",
+      "B2"
+    ],
+    "tokens": 1785
+  },
+  "D": {
+    "block_effects": {
+      "B1": {
+        "n_with": 49,
+        "n_without": 47,
+        "success_with": 0.102,
+        "success_without": 0.0,
+        "effect": 0.102
+      },
+      "B2": {
+        "n_with": 54,
+        "n_without": 42,
+        "success_with": 0.093,
+        "success_without": 0.0,
+        "effect": 0.093
+      },
+      "B3": {
+        "n_with": 45,
+        "n_without": 51,
+        "success_with": 0.0,
+        "success_without": 0.098,
+        "effect": -0.098
+      },
+      "B4": {
+        "n_with": 53,
+        "n_without": 43,
+        "success_with": 0.0,
+        "success_without": 0.116,
+        "effect": -0.116
+      },
+      "B5": {
+        "n_with": 48,
+        "n_without": 48,
+        "success_with": 0.062,
+        "success_without": 0.042,
+        "effect": 0.021
+      },
+      "B6": {
+        "n_with": 49,
+        "n_without": 47,
+        "success_with": 0.082,
+        "success_without": 0.021,
+        "effect": 0.06
+      }
+    },
+    "kept_blocks": [
+      "B1",
+      "B2",
+      "B5",
+      "B6"
+    ],
+    "practice_tokens": 33625,
+    "practice_n": 96
+  }
+}
